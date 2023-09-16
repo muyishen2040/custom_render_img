@@ -2,7 +2,7 @@
 
 ### Prerequisites
 - A trained nerfstudio model
-- Place custom_render_img.py under nerfstudio/nerfstudio/scripts/ folder
+- Place custom_show_img.py under nerfstudio/nerfstudio/scripts/ folder
 
 ### Usage
 ```bash
